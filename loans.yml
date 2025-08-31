@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+loans:
+  message: "Ana mesaj bu."
+  contactDetails:
+    name: "Lead"
+    email: "lead@gmail.com"
+  onCallSupports:
+    - "(555)555-1113"
+    - "(555)555-1114"

@@ -1,0 +1,10 @@
+build:
+  version: "3.0"
+loans:
+  message: "3. mesaj bu."
+  contactDetails:
+    name: "junior"
+    email: "junior@gmail.com"
+  onCallSupports:
+    - "(555)555-1113"
+    - "(555)555-1114"
