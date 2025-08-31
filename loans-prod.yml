@@ -1,10 +1,11 @@
 build:
   version: "2.0"
 loans:
-  message: "2. mesaj bu."
+  message: "2. mesaj rod."
   contactDetails:
     name: "mid"
     email: "mid@gmail.com"
   onCallSupports:
     - "(555)555-1113"
+
     - "(555)555-1114"
