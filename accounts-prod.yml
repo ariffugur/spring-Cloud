@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank cards related prod APIs "
+  message: "Welcome to EazyBank cards related productions APIs "
   contactDetails:
     name: "Sandra Harald - Product Owner"
     email: "{cipher}99b90709aa015b4850727361abf2538cf3250ce292861c17daacf34d2ec6be13e666c6ed4a25c26bcd10d0f032a63d6f"
@@ -10,3 +10,4 @@ accounts:
     - (617) 432-2356
 
     - (936) 564-8721
+
