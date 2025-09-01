@@ -1,7 +1,7 @@
 build:
   version: "2.0"
 loans:
-  message: "2. mesaj qa editting."
+  message: "2. mesaj qa editting2."
   contactDetails:
     name: "mid"
     email: "mid@gmail.com"
@@ -9,5 +9,6 @@ loans:
     - "(555)555-1113"
 
     - "(555)555-1114"
+
 
 
